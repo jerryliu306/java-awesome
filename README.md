@@ -583,3 +583,9 @@ Groovy
 * 《深入理解Java虚拟机》[京东](https://union-click.jd.com/jdc?d=ccOmG5) [淘宝](https://s.taobao.com/search？q=%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA) 
 
 * 《Java编程思想》[京东](https://union-click.jd.com/jdc?d=s2uN52) [淘宝](https://s.taobao.com/search?q=Java编程思想) 
+
+### 开源框架
+
+* 《深入浅出MyBatis技术原理与实战》[京东](https://union-click.jd.com/jdc?d=J7qguz) [淘宝](https://s.taobao.com/search?q=深入浅出MyBatis技术原理与实战) 
+
+
